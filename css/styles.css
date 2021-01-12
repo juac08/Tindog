@@ -1,0 +1,187 @@
+body {
+  font-family: 'Montserrat-Regular';
+}
+
+#title {
+background-color: #ff4c68;
+color: #fff;
+}
+
+h1{
+  font-family: 'Montserrat';
+
+  font-size: =4.5rem;
+  line-height: 1.5;
+  padding-right: 10%;
+
+
+
+}
+
+.head2{
+
+  font-family: "Montserrat-Bold"
+  font-size: 6rem;
+  line-height: 1.5;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+h3 {
+  font-family: 'Ubuntu-Bold';
+
+
+
+  line-height: .5;
+
+
+}
+.head3{
+  font-size: = 4.5rem;
+  line-height: 1.5;
+  font-family: 'Montserrat';
+
+text-align: center;
+
+
+}
+
+.container-fluid{
+margin: auto;
+  padding: 3% 15% 3% 15%;
+
+}
+
+/*Navigation bar*/
+
+
+.navbar{
+  padding: 0 0 4.5rem;
+
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+font-size: 2.5rem;
+font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+
+/*Download Button*/
+.db{
+  margin: 5% 3% 5% 0;
+}
+
+/*Image*/
+
+.TM{
+  width: 60%;
+transform: rotate(25deg);
+
+
+}
+
+/*FEATURES*/
+
+#features{
+
+  align-items: center;
+  padding: 7% 15%;
+  text-align: center;
+
+}
+
+.pp{
+  color: #8f8f8f;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+    width: 12em;
+}
+
+.easy
+{
+
+color: #ef8172;
+line-height: 2;
+padding-bottom: 3%;
+margin: 20px 10px;
+}
+.easy:hover{
+  color: #ff4c68;
+}
+/*testimonials*/
+
+#testimonials {
+
+padding: 7% 15%;
+text-align: center;
+background-color: #ef8172;
+color: #fff;
+
+
+}
+
+.timg{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+
+}
+
+#press{
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;
+
+
+}
+
+.pimg{
+  width: 15%;
+
+}
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+
+
+  color: #fff;
+
+}
+.sana{
+  margin-right: 50px;
+
+}
+.sana:hover{
+  color: gold;
+  margin-right: 20px;
+}
+
+#pricing{
+text-align: center;
+padding: 3% 25%;
+
+}
+
+#footer{
+  text-align: center;
+  padding-top: 2%;
+
+
+}
+.contact-icon{
+  margin:20px 10px;
+}
+.contact-icon:hover{
+  color: gold;
+}
